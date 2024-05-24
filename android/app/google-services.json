@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726441944997",
+    "project_id": "showigu-d7a46",
+    "storage_bucket": "showigu-d7a46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726441944997:android:1cb0b55072eda51506ea4c",
+        "android_client_info": {
+          "package_name": "com.example.check_box"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj5STN--FiLmShb-9RspSh6aRivjOnUPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
